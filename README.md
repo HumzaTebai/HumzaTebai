@@ -1,6 +1,6 @@
 I’m @HumzaTebai
-I’m interested in C++ and DSP
-I’m currently learning C++ and deepening my DSP knowlegde
+I’m interested in C++ and DSP.
+I’m currently learning C++ and deepening my DSP knowlegde.
 I have a huge 30 years+ experience in music, sound design and sound engineering backed up with a good career, still ongoing...
 I’m looking to collaborate on DSP projects.
 My email absynthesizerz@hotmail.com
